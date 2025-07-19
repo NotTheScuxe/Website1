@@ -1,4 +1,4 @@
-import myGraph from './Graphs.png';
+import myGraph from './Graphs.jpg';
 
 function About(){
     return(<section>
@@ -21,7 +21,7 @@ function About(){
             beyond that
         </p>
         <h3>My Skills : </h3>
-        <img src={myGraph}/>
+        <img src={myGraph} width={350}/>
         <br/>
         <h2>How did I study WebDev</h2>
         <p>Being in India's one of the most prestigious institutes for technology, I was indeed exposed to a lot of likeminded
